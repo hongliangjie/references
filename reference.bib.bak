@@ -594,18 +594,4 @@
   url       = {http://doi.acm.org/10.1145/1963405.1963423},
 }
 
-@Article{Kraska2017,
-  author        = {{Kraska}, T. and {Beutel}, A. and {Chi}, E.~H. and {Dean}, J. and {Polyzotis}, N.},
-  title         = {{The Case for Learned Index Structures}},
-  journal       = {ArXiv e-prints},
-  year          = {2017},
-  month         = dec,
-  adsnote       = {Provided by the SAO/NASA Astrophysics Data System},
-  adsurl        = {http://adsabs.harvard.edu/abs/2017arXiv171201208K},
-  archiveprefix = {arXiv},
-  eprint        = {1712.01208},
-  keywords      = {Computer Science - Databases, Computer Science - Data Structures and Algorithms, Computer Science - Neural and Evolutionary Computing},
-  primaryclass  = {cs.DB},
-}
-
 @Comment{jabref-meta: databaseType:bibtex;}
