@@ -2002,4 +2002,35 @@
   numpages  = {10},
 }
 
+@Book{Hastie2009,
+  title     = {The elements of statistical learning: data mining, inference, and prediction, 2nd Edition},
+  publisher = {Springer},
+  year      = {2009},
+  author    = {Trevor Hastie and Robert Tibshirani and Jerome H. Friedman},
+  series    = {Springer series in statistics},
+  isbn      = {9780387848570},
+  bibsource = {dblp computer science bibliography, https://dblp.org},
+  biburl    = {https://dblp.org/rec/bib/books/lib/HastieTF09},
+  timestamp = {Wed, 03 May 2017 18:39:06 +0200},
+  url       = {http://www.worldcat.org/oclc/300478243},
+}
+
+@InProceedings{Hu2018a,
+  author    = {Hu, Jun and Li, Ping},
+  title     = {Collaborative Multi-objective Ranking},
+  booktitle = {Proceedings of the 27th ACM International Conference on Information and Knowledge Management},
+  year      = {2018},
+  series    = {CIKM '18},
+  pages     = {1363--1372},
+  address   = {New York, NY, USA},
+  publisher = {ACM},
+  acmid     = {3271785},
+  doi       = {10.1145/3269206.3271785},
+  isbn      = {978-1-4503-6014-2},
+  keywords  = {collaborative ranking, multi-objective learning, personalized ranking, recommendation},
+  location  = {Torino, Italy},
+  numpages  = {10},
+  url       = {http://doi.acm.org/10.1145/3269206.3271785},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
